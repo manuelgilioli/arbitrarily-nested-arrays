@@ -21,6 +21,7 @@ func flat(r *[]int, o *obj) {
 }
 
 func main() {
+	//I'm a newbranc
 	var result []int
 	//root sample of composite array [1,[2,3],4]
 	var root obj
